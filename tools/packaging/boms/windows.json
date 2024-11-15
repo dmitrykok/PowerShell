@@ -928,14 +928,6 @@
     "FileType": "NonProduct"
   },
   {
-    "Pattern": "Modules/*.json",
-    "FileType": "NonProduct"
-  },
-  {
-    "Pattern": "Modules/*.sha256",
-    "FileType": "NonProduct"
-  },
-  {
     "Pattern": "Modules/Microsoft.PowerShell.Archive/*.cat",
     "FileType": "NonProduct"
   },
@@ -1040,7 +1032,11 @@
     "FileType": "NonProduct"
   },
   {
-    "Pattern": "Modules\\PSReadLine\\_manifest\\spdx_2.2\\manifest.cat",
+    "Pattern": "Modules\\Microsoft.PowerShell.PSResourceGet\\PSResourceRepository.adml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Modules\\Microsoft.PowerShell.PSResourceGet\\PSResourceRepository.admx",
     "FileType": "NonProduct"
   },
   {
@@ -3681,6 +3677,10 @@
   },
   {
     "Pattern": "Modules/PSDiagnostics/PSDiagnostics.psm1",
+    "FileType": "Product"
+  },
+  {
+    "Pattern": "Modules\\Microsoft.PowerShell.PSResourceGet\\InstallPSResourceGetPolicyDefinitions.ps1",
     "FileType": "Product"
   },
   {
