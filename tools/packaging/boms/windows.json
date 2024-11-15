@@ -1,14 +1,30 @@
 [
   {
-    "Pattern": "_manifest\\spdx_2.2\\bsi.json",
-    "FileType": "NonProduct"
-  },
-  {
-    "Pattern": "_manifest\\spdx_2.2\\manifest.cat",
-    "FileType": "NonProduct"
-  },
-  {
     "Pattern": "Accessibility.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "AppxManifest.xml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "assets\\Square150x150Logo.png",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "assets\\Square44x44Logo.png",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "assets\\Square44x44Logo.targetsize-48_altform-unplated.png",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "assets\\Square44x44Logo.targetsize-48.png",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "assets\\StoreLogo.png",
     "FileType": "NonProduct"
   },
   {
@@ -1256,6 +1272,10 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "priconfig.xml",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "psoptions.json",
     "FileType": "NonProduct"
   },
@@ -2025,6 +2045,62 @@
   },
   {
     "Pattern": "ref\\System.IO.Pipelines.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-cs.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-de.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-es.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-fr.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-it.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-ja.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-ko.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-pl.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-pt.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-ru.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-tr.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-zh-hans.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.language-zh-hant.pri",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "resources.pri",
     "FileType": "NonProduct"
   },
   {
