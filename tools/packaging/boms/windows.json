@@ -392,6 +392,10 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "getfilesiginforedistwrapper.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "hostfxr.dll",
     "FileType": "NonProduct"
   },
@@ -401,6 +405,10 @@
   },
   {
     "Pattern": "Humanizer.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Humanizer.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -576,11 +584,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Json.More.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "JsonPointer.Net.dll",
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "JsonPointer.Net.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "JsonSchema.Net.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "JsonSchema.Net.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -672,7 +692,15 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Markdig.Signed.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.ApplicationInsights.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.ApplicationInsights.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -680,11 +708,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.Bcl.AsyncInterfaces.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.CodeAnalysis.CSharp.dll",
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.CodeAnalysis.CSharp.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.CodeAnalysis.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.CodeAnalysis.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -693,6 +733,18 @@
   },
   {
     "Pattern": "Microsoft.Extensions.ObjectPool.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.Extensions.ObjectPool.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.Management.Infrastructure.CimCmdlets.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.Management.Infrastructure.CimCmdlets.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -708,7 +760,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "microsoft.management.infrastructure.native.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.Management.Infrastructure.Native.Unmanaged.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "microsoft.management.infrastructure.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Commands.Diagnostics.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Commands.Diagnostics.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -716,7 +784,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.PowerShell.Commands.Management.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Commands.Management.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.PowerShell.Commands.Management.xml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Commands.Utility.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Commands.Utility.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -724,7 +808,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.PowerShell.ConsoleHost.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.ConsoleHost.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.PowerShell.ConsoleHost.xml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.CoreCLR.Eventing.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.CoreCLR.Eventing.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -736,6 +836,14 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.PowerShell.GraphicalHost.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.GraphicalHost.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.PowerShell.GraphicalHost.xml",
     "FileType": "NonProduct"
   },
@@ -744,7 +852,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.PowerShell.MarkdownRender.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.SDK.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.PowerShell.SDK.xml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Security.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.PowerShell.Security.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -780,7 +904,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "Microsoft.WSMan.Management.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.WSMan.Management.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "Microsoft.WSMan.Management.xml",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.WSMan.Runtime.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Microsoft.WSMan.Runtime.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -937,6 +1077,10 @@
   },
   {
     "Pattern": "Newtonsoft.Json.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "Newtonsoft.Json.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -1209,6 +1353,14 @@
   },
   {
     "Pattern": "pwsh.deps.json",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "pwsh.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "pwsh.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2220,7 +2372,15 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.ComponentModel.Composition.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.ComponentModel.Composition.Registration.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.ComponentModel.Composition.Registration.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2276,11 +2436,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.Data.Odbc.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.Data.OleDb.dll",
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.Data.OleDb.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.Data.SqlClient.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Data.SqlClient.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2344,11 +2516,19 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.DirectoryServices.AccountManagement.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.DirectoryServices.dll",
     "FileType": "NonProduct"
   },
   {
     "Pattern": "System.DirectoryServices.Protocols.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.DirectoryServices.Protocols.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2472,6 +2652,10 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.IO.Ports.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.IO.UnmanagedMemoryStream.dll",
     "FileType": "NonProduct"
   },
@@ -2492,11 +2676,23 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.Management.Automation.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Management.Automation.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.Management.Automation.xml",
     "FileType": "NonProduct"
   },
   {
     "Pattern": "System.Management.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Management.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2517,6 +2713,10 @@
   },
   {
     "Pattern": "System.Net.Http.WinHttpHandler.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Net.Http.WinHttpHandler.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2612,6 +2812,10 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.Private.ServiceModel.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.Private.Uri.dll",
     "FileType": "NonProduct"
   },
@@ -2629,6 +2833,10 @@
   },
   {
     "Pattern": "System.Reflection.Context.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Reflection.Context.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2685,6 +2893,10 @@
   },
   {
     "Pattern": "System.Runtime.Caching.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Runtime.Caching.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2852,6 +3064,10 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.ServiceModel.Syndication.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.ServiceModel.Web.dll",
     "FileType": "NonProduct"
   },
@@ -2864,7 +3080,15 @@
     "FileType": "NonProduct"
   },
   {
+    "Pattern": "System.ServiceProcess.ServiceController.ni.pdb",
+    "FileType": "NonProduct"
+  },
+  {
     "Pattern": "System.Speech.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Speech.ni.pdb",
     "FileType": "NonProduct"
   },
   {
@@ -2957,6 +3181,10 @@
   },
   {
     "Pattern": "System.Web.Services.Description.dll",
+    "FileType": "NonProduct"
+  },
+  {
+    "Pattern": "System.Web.Services.Description.ni.pdb",
     "FileType": "NonProduct"
   },
   {
